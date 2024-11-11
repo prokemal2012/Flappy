@@ -1,0 +1,13 @@
+{
+  "version": "1.0.5",
+  "release_date": "2024-11-10",
+  "update_url": "https://github.com/prokemal2012/flappy/releases/latest",
+  "changelog": [
+    "Added customizable themes for birds and gameplay",
+    "Improved game performance and reduced lag",
+    "Enhanced shop UI with animations",
+    "Fixed bugs related to item equipping",
+    "Added new reward system for achievements"
+  ],
+  "mandatory": false
+}
