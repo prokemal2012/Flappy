@@ -9,4 +9,3 @@ Flappy is a simple, yet addictive game where you control a bird and navigate it 
 - Retro-style graphics
 - Endless gameplay
 - High score tracking
-# flappy
